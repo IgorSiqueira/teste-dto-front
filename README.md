@@ -13,6 +13,8 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
+cd teste-dto-front
+mv .env.example .env
 npm install
 ```
 
